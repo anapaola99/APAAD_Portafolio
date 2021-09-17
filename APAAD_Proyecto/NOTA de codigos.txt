@@ -1,0 +1,1 @@
+NOTA: el código esta bien hecho pero por alguna razon el botón que lleva a index a veces falla y a veces no pero ya revise y todo esta bien direccionado y ordenado.
